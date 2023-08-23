@@ -16,6 +16,7 @@ a{
     display: flex;
     justify-content: space-around;
     background-color: #1f2937;
+    padding-bottom: 40px;
 }
 
 .header-links{
@@ -37,4 +38,41 @@ ul{
     list-style: none;
     gap: 16px;
     
+}
+
+.info-1{
+    background-color: #1f2937;
+    display: flex;
+    flex-direction: row;
+    
+    justify-content: space-around;
+    padding-left: 90px;
+    padding-bottom: 60px;
+}
+
+.gimg{
+    width: 300px;
+    margin-left: -100px;
+}
+.info-1-text{
+    width: 300px;
+    
+}
+.info-1-header{
+    font-size: 48px;
+    color: #f9faf8; 
+}
+.info-1-content{
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.watch-now-btn {
+    margin: 8px 0;
+    font-size: 18px;
+    padding: 8px 16px;
+    border-radius: 8px;
+    background-color: #3882f6;
+    color: #f9faf8;
+    border-style: none;
 }

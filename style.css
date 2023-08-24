@@ -180,3 +180,13 @@ ul{
     color: #ffffff;
     font-weight: bold;
 }
+
+.footer{
+    height: 80px;
+    background-color: #1f2937;
+    font-size: 16px;
+    color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

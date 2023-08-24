@@ -118,3 +118,33 @@ ul{
     display: flex;
     flex-direction: column;
 }
+
+.info-3{
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    padding: 120px;
+}
+
+.info-3.quote-cont{
+    
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.quote {
+    font-size: 36px;
+    color: #1f2937;
+    width: 800px;
+    font-weight: 100;
+    font-style: italic;
+
+}
+
+.quote-author{
+    justify-content: flex-end;
+    display: flex;
+    flex-direction: row;
+    font-size: 24px;
+    font-weight: bold;
+}
